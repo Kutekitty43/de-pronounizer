@@ -55,4 +55,4 @@ Do remember
 Capture or set free am  am of  am, am of  am) am, am of  am) am, am of  am) am, am of (here go! Here go!)  am) am, am of (here go!)
  am, am of
 ```
-As yoy can see, there are *some* issues, but I don't care enough to fix them because this is a joke program.
+As you can see, there are *some* issues, but I don't care enough to fix them because this is a joke program.
