@@ -56,3 +56,5 @@ Capture or set free am  am of  am, am of  am) am, am of  am) am, am of  am) am, 
  am, am of
 ```
 As you can see, there are *some* issues, but I don't care enough to fix them because this is a joke program.
+
+To use this program, just run the Python file, specify the path to the input file and the name of the output file, and behold your new file.
